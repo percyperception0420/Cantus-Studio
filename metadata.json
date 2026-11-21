@@ -1,0 +1,6 @@
+{
+  "name": "Cantus Studio",
+  "description": "Collaborative choral and vocal DAW with full mastering plugin chains, AI song composition, real-time WebSocket studio rooms, vocal range & genre analysis, and complete audio engineering documentation.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
